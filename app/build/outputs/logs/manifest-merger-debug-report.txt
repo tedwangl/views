@@ -5,6 +5,7 @@ INJECTED from /Users/wanglei/AndroidStudioProjects/views/app/src/main/AndroidMan
 INJECTED from /Users/wanglei/AndroidStudioProjects/views/app/src/main/AndroidManifest.xml:1:1-20:12
 INJECTED from /Users/wanglei/AndroidStudioProjects/views/app/src/main/AndroidManifest.xml:1:1-20:12
 MERGED from [:ui] /Users/wanglei/AndroidStudioProjects/views/ui/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/aa57bad3b082961723d458f8f33acd3b/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/fa4fcdd9c564907b3509f963f97c8b00/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8c2319a1930d391e706d1a98d06a48b3/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/5769930244fac0664d3ca90acc89e073/AndroidManifest.xml:17:1-22:12
@@ -13,6 +14,7 @@ MERGED from [com.android.support:support-core-ui:28.0.0] /Users/wanglei/.gradle/
 MERGED from [com.android.support:support-core-utils:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/e8097ca6ce5843cd3222e37bb33cbdf6/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/f192c43957417aa63188bc2d2f9f7ffa/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:loader:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/83f836397aba82ff845d498db803449c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/7c75c8ad9acaea48beb4989f0e03d020/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:viewpager:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/130425a1fefa04193e03b1719b3f6aa3/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/8f54ce55cb72687569ea1cb564314c2f/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:drawerlayout:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/55e677645ff414787fee256a362ad83f/AndroidManifest.xml:17:1-22:12
@@ -23,6 +25,7 @@ MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/wanglei/.gra
 MERGED from [com.android.support:support-compat:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1dab5604317df676cd2745aa516e2534/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c6b078da54e5bd63ac76e89331c08346/AndroidManifest.xml:17:1-25:12
 MERGED from [com.android.support:cursoradapter:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/56d0368ba2b4c5f98d86aa88aeafc09f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/f8845c3da02275426c1e354d1c66022d/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7c0432e50a598548a77fe5403f3eaf4e/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:documentfile:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/71f2c869f647ce459b88d8be4e233782/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4ee9e6e44e29e5329972506e81afc899/AndroidManifest.xml:17:1-22:12
@@ -53,6 +56,8 @@ INJECTED from /Users/wanglei/AndroidStudioProjects/views/app/src/main/AndroidMan
 		ADDED from /Users/wanglei/AndroidStudioProjects/views/app/src/main/AndroidManifest.xml:1:11-69
 application
 ADDED from /Users/wanglei/AndroidStudioProjects/views/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:design:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/aa57bad3b082961723d458f8f33acd3b/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/aa57bad3b082961723d458f8f33acd3b/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-compat:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1dab5604317df676cd2745aa516e2534/AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:support-compat:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1dab5604317df676cd2745aa516e2534/AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c6b078da54e5bd63ac76e89331c08346/AndroidManifest.xml:22:5-23:19
@@ -93,6 +98,8 @@ INJECTED from /Users/wanglei/AndroidStudioProjects/views/app/src/main/AndroidMan
 INJECTED from /Users/wanglei/AndroidStudioProjects/views/app/src/main/AndroidManifest.xml
 MERGED from [:ui] /Users/wanglei/AndroidStudioProjects/views/ui/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
 MERGED from [:ui] /Users/wanglei/AndroidStudioProjects/views/ui/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/aa57bad3b082961723d458f8f33acd3b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/aa57bad3b082961723d458f8f33acd3b/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/fa4fcdd9c564907b3509f963f97c8b00/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/fa4fcdd9c564907b3509f963f97c8b00/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8c2319a1930d391e706d1a98d06a48b3/AndroidManifest.xml:20:5-44
@@ -109,6 +116,8 @@ MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/wanglei/
 MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/f192c43957417aa63188bc2d2f9f7ffa/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:loader:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/83f836397aba82ff845d498db803449c/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:loader:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/83f836397aba82ff845d498db803449c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/7c75c8ad9acaea48beb4989f0e03d020/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/7c75c8ad9acaea48beb4989f0e03d020/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:viewpager:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/130425a1fefa04193e03b1719b3f6aa3/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:viewpager:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/130425a1fefa04193e03b1719b3f6aa3/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/8f54ce55cb72687569ea1cb564314c2f/AndroidManifest.xml:20:5-44
@@ -129,6 +138,8 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/wanglei/.gra
 MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c6b078da54e5bd63ac76e89331c08346/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cursoradapter:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/56d0368ba2b4c5f98d86aa88aeafc09f/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cursoradapter:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/56d0368ba2b4c5f98d86aa88aeafc09f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/f8845c3da02275426c1e354d1c66022d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/f8845c3da02275426c1e354d1c66022d/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7c0432e50a598548a77fe5403f3eaf4e/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7c0432e50a598548a77fe5403f3eaf4e/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:documentfile:28.0.0] /Users/wanglei/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/71f2c869f647ce459b88d8be4e233782/AndroidManifest.xml:20:5-44
