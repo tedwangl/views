@@ -1,4 +1,4 @@
-package com.example.xrecyclerview;
+package com.wl.ui.xrecyclerview;
 
 import android.content.Context;
 import android.graphics.drawable.AnimationDrawable;
@@ -9,6 +9,8 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+
+import com.wl.ui.R;
 
 public class LoadingMoreFooter extends LinearLayout {
 

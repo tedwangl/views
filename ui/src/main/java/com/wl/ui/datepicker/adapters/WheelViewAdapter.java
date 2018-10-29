@@ -14,12 +14,12 @@
  *  limitations under the License.
  */
 
-package com.wl.timepicker.adapters;
+package com.wl.ui.datepicker.adapters;
 
 import android.database.DataSetObserver;
 import android.view.View;
 import android.view.ViewGroup;
-import com.wl.timepicker.config.PickerConfig;
+import com.wl.ui.datepicker.config.PickerConfig;
 
 /**
  * Wheel items adapter interface

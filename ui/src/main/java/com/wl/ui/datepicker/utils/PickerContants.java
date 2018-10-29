@@ -1,4 +1,4 @@
-package com.wl.timepicker.utils;
+package com.wl.ui.datepicker.utils;
 
 /**
  * Created by jzxiang on 16/4/20.

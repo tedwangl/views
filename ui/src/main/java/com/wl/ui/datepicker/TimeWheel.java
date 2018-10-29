@@ -1,15 +1,15 @@
-package com.wl.timepicker;
+package com.wl.ui.datepicker;
 
 import android.content.Context;
 import android.view.View;
-import com.wl.timepicker.adapters.NumericWheelAdapter;
-import com.wl.timepicker.config.PickerConfig;
-import com.wl.timepicker.data.source.TimeRepository;
-import com.wl.timepicker.utils.PickerContants;
-import com.wl.timepicker.utils.Utils;
-import com.wl.timepicker.wheel.OnWheelChangedListener;
-import com.wl.timepicker.wheel.WheelView;
-
+import com.wl.ui.R;
+import com.wl.ui.datepicker.adapters.NumericWheelAdapter;
+import com.wl.ui.datepicker.config.PickerConfig;
+import com.wl.ui.datepicker.data.source.TimeRepository;
+import com.wl.ui.datepicker.utils.PickerContants;
+import com.wl.ui.datepicker.utils.Utils;
+import com.wl.ui.datepicker.wheel.OnWheelChangedListener;
+import com.wl.ui.datepicker.wheel.WheelView;
 import java.util.Calendar;
 
 /**

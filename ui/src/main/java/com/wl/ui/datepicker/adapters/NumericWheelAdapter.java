@@ -14,7 +14,7 @@
  *  limitations under the License.
  */
 
-package com.wl.timepicker.adapters;
+package com.wl.ui.datepicker.adapters;
 
 import android.content.Context;
 import android.text.TextUtils;

@@ -13,7 +13,7 @@
  *  See the License for the specific language governing permissions and
  *  limitations under the License.
  */
-package com.wl.timepicker.adapters;
+package com.wl.ui.datepicker.adapters;
 
 import android.content.Context;
 import android.util.Log;
@@ -22,8 +22,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
-import com.wl.timepicker.R;
-import com.wl.timepicker.config.PickerConfig;
+import com.wl.ui.R;
+import com.wl.ui.datepicker.config.PickerConfig;
 
 /**
  * Abstract wheel adapter provides common functionality for adapters.

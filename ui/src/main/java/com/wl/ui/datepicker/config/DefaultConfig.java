@@ -1,5 +1,5 @@
-package com.wl.timepicker.config;
-import com.wl.timepicker.data.Type;
+package com.wl.ui.datepicker.config;
+import com.wl.ui.datepicker.data.Type;
 
 /**
  * Created by jzxiang on 16/5/15.

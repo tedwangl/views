@@ -17,7 +17,7 @@
  *  limitations under the License.
  */
 
-package com.wl.timepicker.wheel;
+package com.wl.ui.datepicker.wheel;
 
 import android.content.Context;
 import android.database.DataSetObserver;
@@ -30,10 +30,10 @@ import android.view.ViewGroup.LayoutParams;
 import android.view.animation.Interpolator;
 import android.widget.LinearLayout;
 import android.widget.TextView;
-import com.wl.timepicker.R;
-import com.wl.timepicker.adapters.WheelViewAdapter;
-import com.wl.timepicker.config.DefaultConfig;
-import com.wl.timepicker.config.PickerConfig;
+import com.wl.ui.R;
+import com.wl.ui.datepicker.adapters.WheelViewAdapter;
+import com.wl.ui.datepicker.config.DefaultConfig;
+import com.wl.ui.datepicker.config.PickerConfig;
 
 import java.util.LinkedList;
 import java.util.List;

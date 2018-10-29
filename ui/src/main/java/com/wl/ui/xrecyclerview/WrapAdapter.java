@@ -1,4 +1,4 @@
-package com.example.xrecyclerview;
+package com.wl.ui.xrecyclerview;
 
 import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.RecyclerView;

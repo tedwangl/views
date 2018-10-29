@@ -1,8 +1,8 @@
-package com.wl.timepicker.utils;
+package com.wl.ui.datepicker.utils;
 
 import android.view.View;
 
-import com.wl.timepicker.data.WheelCalendar;
+import com.wl.ui.datepicker.data.WheelCalendar;
 
 /**
  * Created by jzxiang on 16/4/20.

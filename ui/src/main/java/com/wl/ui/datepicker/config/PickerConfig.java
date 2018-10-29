@@ -1,8 +1,8 @@
-package com.wl.timepicker.config;
+package com.wl.ui.datepicker.config;
 
-import com.wl.timepicker.data.Type;
-import com.wl.timepicker.data.WheelCalendar;
-import com.wl.timepicker.listener.OnDateSetListener;
+import com.wl.ui.datepicker.data.Type;
+import com.wl.ui.datepicker.data.WheelCalendar;
+import com.wl.ui.datepicker.listener.OnDateSetListener;
 
 /**
  * Created by jzxiang on 16/5/15.

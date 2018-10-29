@@ -1,4 +1,4 @@
-package com.example.xrecyclerview;
+package com.wl.ui.xrecyclerview;
 
 import android.animation.ValueAnimator;
 import android.content.Context;

@@ -1,4 +1,4 @@
-package com.example.xrecyclerview;
+package com.wl.ui.xrecyclerview;
 
 /**
  * Created by jianghejie on 15/11/22.

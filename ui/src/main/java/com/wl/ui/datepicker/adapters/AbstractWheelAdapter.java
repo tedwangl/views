@@ -14,7 +14,7 @@
  *  limitations under the License.
  */
 
-package com.wl.timepicker.adapters;
+package com.wl.ui.datepicker.adapters;
 
 import android.database.DataSetObserver;
 import android.view.View;

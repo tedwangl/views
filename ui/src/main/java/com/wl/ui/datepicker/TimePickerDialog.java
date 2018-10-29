@@ -1,4 +1,4 @@
-package com.wl.timepicker;
+package com.wl.ui.datepicker;
 
 import android.app.Activity;
 import android.app.Dialog;
@@ -13,10 +13,11 @@ import android.view.ViewGroup;
 import android.view.Window;
 import android.view.WindowManager;
 import android.widget.TextView;
-import com.wl.timepicker.config.PickerConfig;
-import com.wl.timepicker.data.Type;
-import com.wl.timepicker.data.WheelCalendar;
-import com.wl.timepicker.listener.OnDateSetListener;
+import com.wl.ui.R;
+import com.wl.ui.datepicker.config.PickerConfig;
+import com.wl.ui.datepicker.data.Type;
+import com.wl.ui.datepicker.data.WheelCalendar;
+import com.wl.ui.datepicker.listener.OnDateSetListener;
 
 import java.util.Calendar;
 

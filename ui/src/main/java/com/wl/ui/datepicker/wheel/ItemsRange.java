@@ -17,7 +17,7 @@
  *  limitations under the License.
  */
 
-package com.wl.timepicker.wheel;
+package com.wl.ui.datepicker.wheel;
 
 /**
  * Range for visible items.
