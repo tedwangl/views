@@ -11,6 +11,7 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+import com.wl.ui.R;
 
 /**
  * Created by yangcai on 2016/1/27.
